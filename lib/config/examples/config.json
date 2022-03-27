@@ -1,0 +1,10 @@
+{
+    "mqtt-network": "0.0.0.0",
+    "mqtt-port": 1183,
+    "mqtt-channel": "/moheato/logs",
+    "network-ssid": "moheato-net",
+    "network-pwd": "12345",
+    "network-channel": 0,
+    "network-hidden": false,
+    "network-ap-mode": false
+}
